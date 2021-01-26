@@ -16,27 +16,44 @@
       "unityID": "3896203",
       "unity_inter": "video",
       "unity_banner": "bannerid",
-      "packagename": "com.tukumaning.animewallpaperunlimited"
+      "packagename": "mak.ad.wallpaperalienx"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     }
   ],
 
-"More":
-  [ 
-
-
-  ],
-  
   "Categories": [
     {
       "id": 1,
-      "nama_cat": "Conan",
-      "gambar": "https://1.bp.blogspot.com/-t-Ow_SzV3qI/YA6VFdKVWOI/AAAAAAAAHFI/am2enZhbCaU-hQWI8SzowG25xz2P89YwQCLcBGAsYHQ/s1024/Conan%2B%252815%2529.jpgg"
-     
+      "name_category": "Conan",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    }
+
     }
   ],
 
-  "Wallpaper":
-  [ 
+  "Data":
+  [
     {
       "id":1,
       "name_category": "Conan",
@@ -505,7 +522,6 @@
       "title":"Conan 78",
       "image":"https://1.bp.blogspot.com/-YUzU6TM8K1A/YA6VGL38z1I/AAAAAAAAHFc/KyJHNsdVEE0wOJ1xURw5dgghgnnL9zGlACLcBGAsYHQ/s1024/Conan%2B%25282%2529.jpg"
     }
-
 
   ]
 }
