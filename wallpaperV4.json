@@ -3,8 +3,8 @@
     {
       "select_ads": "FACEBOOK",
       "select_backup_ads": "MOPUB",
-      "status_app": "0",
-      "link_redirect": "https://",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.tukumaningstudio.mobawallpaper",
       "admob_interid": "ca-app-pub-5445947100454432/1974683841",
       "admob_nativeid": "ca-app-pub-5445947100454432/2749737130",
       "admob_openid": "ca-app-pub-5445947100454432/9123573790",
